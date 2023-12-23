@@ -1,3 +1,3 @@
-import {Markdown} from "./dist/main"
+import {Markdown} from "./src/index"
 
 export default Markdown;
