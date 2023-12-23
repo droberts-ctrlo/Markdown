@@ -4,7 +4,7 @@
   "repository": "http://github.com/droberts-ctrlo/markdown.git",
   "author": "Dave Roberts",
   "license": "MIT",
-  "private": "no",
+  "private": "false",
   "dependencies": {
     "bootstrap": "^5.3.2",
     "jquery": "^3.7.1",
