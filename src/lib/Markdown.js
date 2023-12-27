@@ -3,7 +3,7 @@ import { marked } from "marked";
 /**
  * Markdown class
  */
-export class Markdown {
+class Markdown {
     /** 
      * Create a markdown object with the defined configuration
      * @param {JQuery<HTMLInputElement | HTMLTextAreaElement>} inputElement The input element to get the markdown text from
@@ -52,3 +52,5 @@ export class Markdown {
         });
     }
 }
+
+export default Markdown;
