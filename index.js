@@ -1,3 +1,3 @@
-import Markdown from "./src/index"
+import Markdown from "./dist/js"
 
 export default Markdown;
